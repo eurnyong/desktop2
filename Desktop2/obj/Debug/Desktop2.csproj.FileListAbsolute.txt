@@ -1,0 +1,10 @@
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\bin\Debug\Desktop2.exe.config
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\bin\Debug\Desktop2.exe
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\bin\Debug\Desktop2.pdb
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\obj\Debug\Desktop2.csproj.AssemblyReference.cache
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\obj\Debug\Desktop2.csproj.SuggestedBindingRedirects.cache
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\obj\Debug\Desktop2.Properties.Resources.resources
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\obj\Debug\Desktop2.csproj.GenerateResource.cache
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\obj\Debug\Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\obj\Debug\Desktop2.exe
+C:\Users\eunryong\RiderProjects\Desktop2\Desktop2\obj\Debug\Desktop2.pdb
